@@ -1,0 +1,4 @@
+interface:
+  display_name: "折腾派公众号排版"
+  short_description: "复用已确认的红白公众号版式，少量整句加粗，保留全文并输出可复制预览"
+  default_prompt: "使用 $zhetengpai-wechat-layout 排版这篇公众号文章，沿用红白样式、少量整句加粗和文末简介图。"
